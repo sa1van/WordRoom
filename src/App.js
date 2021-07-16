@@ -11,7 +11,6 @@ import Login from "./Components/Login";
 import Profile from "./Components/Profile";
 import { useHistory, useLocation } from "react-router-dom";
 import "./App.css";
-import { useEffect, useState } from "react";
 import CategoryWords from "./Components/CategoryWords";
 
 const theme = createMuiTheme({
