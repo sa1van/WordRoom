@@ -1,6 +1,8 @@
 # WordRoom
 A simple app made with React-Redux-Persist with intention for people preparing for exams like GRE, this app makes it easy to categorize words and play around.
 
+Code is in master branch.
+
 Glimpse
 
 ![Screenshot (138)](https://user-images.githubusercontent.com/43615884/126028906-43ac14ad-477c-4b71-b2af-87e0e8dcc444.png)
