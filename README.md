@@ -3,6 +3,8 @@ A simple app made with React-Redux-Persist with intention for people preparing f
 
 Code is in master branch.
 
+Hi Folks, you can use this url https://unruffled-tesla-3b7ff2.netlify.app/
+
 Glimpse
 
 ![Screenshot (138)](https://user-images.githubusercontent.com/43615884/126028906-43ac14ad-477c-4b71-b2af-87e0e8dcc444.png)
